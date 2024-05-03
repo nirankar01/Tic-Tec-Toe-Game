@@ -17,7 +17,6 @@ h1 {
     padding: 20px;
     border: 2px solid black;
     background-color: green;
-    /* width: 100%; */
     height: 70vh;
     display: flex;
     flex-wrap: wrap;
@@ -26,7 +25,6 @@ h1 {
 }
 
 .game {
-    /* background-color: darkblue; */
     height: 60vmin;
     width: 65vmin;
     display: flex;
@@ -55,8 +53,6 @@ h1 {
 }
 
 .msg-container {
-    /* margin: 0px; */
-    /* padding: 0px; */
     height: 100vmin;
     display: flex;
     justify-content: center;
